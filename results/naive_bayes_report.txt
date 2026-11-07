@@ -1,0 +1,15 @@
+Naive Bayes
+
+              precision    recall  f1-score   support
+
+    BARBUNYA       0.68      0.46      0.55       265
+      BOMBAY       1.00      1.00      1.00       104
+        CALI       0.69      0.83      0.75       326
+    DERMASON       0.87      0.82      0.85       709
+       HOROZ       0.78      0.79      0.79       372
+       SEKER       0.67      0.70      0.68       406
+        SIRA       0.73      0.77      0.75       527
+
+    accuracy                           0.76      2709
+   macro avg       0.77      0.77      0.77      2709
+weighted avg       0.76      0.76      0.76      2709
